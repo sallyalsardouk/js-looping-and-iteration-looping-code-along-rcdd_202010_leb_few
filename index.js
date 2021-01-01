@@ -1,3 +1,6 @@
+let name=["Lisa","Kaitlin","Jan"]
+let event = ["surprise"];
+
 function writeCards(name,event){
   let newArray = []
   for(let i=0;i<name.length;i++){
@@ -8,8 +11,7 @@ function writeCards(name,event){
 }
 //writeCards(["Lisa","Kaitlin","Jan"],'surprise');
 
-let name=["Lisa","Kaitlin","Jan"]
-let event = ["surprise"];
+
 
 
 function countDown(nb){
