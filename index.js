@@ -6,9 +6,9 @@ function writeCards(name,event){
   }
   return newArray;
 }
-//writeCards(["Lisa","Kaitlin","Jan"],'surprise');
+writeCards(["Lisa","Kaitlin","Jan"],'surprise');
 
-writeCards(name,event)
+
 
 
 function countDown(nb){
