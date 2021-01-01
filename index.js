@@ -1,6 +1,3 @@
-let name=["Lisa","Kaitlin","Jan"]
-let event = ["surprise"];
-
 function writeCards(name,event){
   let newArray = []
   for(let i=0;i<name.length;i++){
