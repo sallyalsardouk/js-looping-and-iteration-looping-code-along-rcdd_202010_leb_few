@@ -11,7 +11,7 @@ function writeCards(name,event){
 }
 //writeCards(["Lisa","Kaitlin","Jan"],'surprise');
 
-
+writeCards(name,event)
 
 
 function countDown(nb){
