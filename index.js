@@ -8,7 +8,7 @@ function writeCards(name,event){
 }
 writeCards(["Lisa","Kaitlin","Jan"],'surprise');
 
-
+let name=["Lisa","Kaitlin","Jan"]
 
 
 function countDown(nb){
